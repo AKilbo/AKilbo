@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A Data Scientist</h3>
+<h3 align="center">A Data Scientist and Software Developer</h3>
 
 - 📫 How to reach me **akilbo@gmail.com**
 
